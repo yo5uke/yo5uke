@@ -7,3 +7,5 @@
 **メールアドレス**：[yosuke.abe0507[at]gmail.com](mailto:yosuke.abe0507@gmail.com)
 
 **個人HP**：[yo5uke.github.io](https://yo5uke.github.io/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yo5uke)
