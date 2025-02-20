@@ -8,4 +8,4 @@
 
 **個人HP**：[yo5uke.github.io](https://yo5uke.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo5uke](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo5uke)](https://github.com/anuraghazra/github-readme-stats)
