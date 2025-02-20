@@ -11,6 +11,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yo5uke&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yo5uke&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yo5uke&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15yo5uke&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yo5uke&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yo5uke&theme=tokyonight&utcOffset=9)
 
