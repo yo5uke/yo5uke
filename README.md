@@ -8,4 +8,9 @@
 
 **個人HP**：[yo5uke.github.io](https://yo5uke.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo5uke)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yo5uke&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yo5uke&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yo5uke&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15yo5uke&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yo5uke&theme=tokyonight&utcOffset=9)
+
