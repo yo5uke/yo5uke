@@ -6,7 +6,7 @@
 
 **メールアドレス**：[yosuke.abe0507[at]gmail.com](mailto:yosuke.abe0507@gmail.com)
 
-**個人HP**：[](https://yo5uke.com)
+**個人HP**：https://yo5uke.com/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yo5uke&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yo5uke&theme=tokyonight)
