@@ -2,7 +2,7 @@
 
 **名前**：阿部洋輔 (Yosuke Abe)
 
-**所属**：民間企業
+**所属**：民間シンクタンク
 
 **メールアドレス**：[yosuke.abe0507[at]gmail.com](mailto:yosuke.abe0507@gmail.com)
 
