@@ -35,30 +35,10 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/yo5uke/yo5uke/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
 ![](https://raw.githubusercontent.com/yo5uke/yo5uke/main/profile-summary-card-output/tokyonight/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yo5uke/yo5uke/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 ```
 
     
