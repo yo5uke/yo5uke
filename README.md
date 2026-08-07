@@ -5,8 +5,6 @@
 <!-- ヘッダー -->
 ## 🇯🇵 プロフィール
 
-**民間シンクタンク**
-
 <br>
 
 [![Email](https://img.shields.io/badge/Email-yosuke.abe0507%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosuke.abe0507@gmail.com)
@@ -58,7 +56,7 @@
 
 **[fixes](https://github.com/yo5uke/fixes)**
 
-📈 Staggered Difference-in-Differences（多期間・多時点DID）の推定と可視化を行うRパッケージ
+📈 Staggered Difference-in-Differences の推定と可視化を行うRパッケージ
 
 [![CRAN](https://www.r-pkg.org/badges/version/fixes)](https://CRAN.R-project.org/package=fixes)
 [![Stars](https://img.shields.io/github/stars/yo5uke/fixes?style=flat-square&color=yellow&label=%E2%98%85)](https://github.com/yo5uke/fixes/stargazers)
@@ -98,7 +96,7 @@
 
 **[taskan](https://github.com/yo5uke/taskan)**
 
-✅ 「タスク管理」から名付けた、フォルダを好きな深さで自由に管理できるタスク管理アプリ
+✅ 「タスク管理」から名付けた、フォルダを好きな深さで自由に管理できるAndroidのタスク管理アプリ
 
 [![CI](https://github.com/yo5uke/taskan/actions/workflows/ci.yml/badge.svg)](https://github.com/yo5uke/taskan/actions/workflows/ci.yml)
 
