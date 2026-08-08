@@ -1,5 +1,4 @@
-# ✨ 阿部洋輔 / Yosuke Abe
-
+# Welcome ✨
 <div align="center">
 
 <!-- ヘッダー -->
@@ -9,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-yosuke.abe0507%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosuke.abe0507@gmail.com)
 [![Website](https://img.shields.io/badge/Website-yo5uke.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yo5uke.com/)
-[![GitHub followers](https://img.shields.io/github/followers/yo5uke?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/yo5uke?tab=followers)
 
 </div>
 
@@ -17,12 +15,12 @@
 
 ## 👤 About Me
 
-- **名前**：阿部洋輔 (Yosuke Abe)
+- **名前**：Yosuke Abe
 - **所属**：民間シンクタンク
 - **メールアドレス**：[yosuke.abe0507[at]gmail.com](mailto:yosuke.abe0507@gmail.com)
 - **個人HP**：https://yo5uke.com/
 
-実証経済学・因果推論をベースに、Rパッケージの開発から行政データの可視化、業務効率化のためのアプリ・ツール開発まで、研究と実装を横断して手を動かしています。
+実証経済学・因果推論をベースに、Rパッケージの開発から行政データの可視化、アプリ・ツール開発まで、研究と実装を横断して手を動かしています。
 
 <div align="center">
 
