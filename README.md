@@ -2,7 +2,7 @@
 
 > Researcher at a Japanese think tank, specializing in official statistics, econometrics, and causal inference.
 
-### Featured Projects & Tools
+### 📦 Featured Projects & Tools
 
 <table width="100%">
   <tr>
