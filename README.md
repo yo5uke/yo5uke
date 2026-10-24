@@ -8,7 +8,7 @@
   <tr>
     <td colspan="2" width="100%" valign="top">
       <p>
-        <a href="https://yo5uke.com"><b>🌐 yo5uke.com</b></a>
+        🌐 <a href="https://yo5uke.com"><b>yo5uke.com</b></a>
         <br>
         <sub>Personal website and digital garden featuring technical notes on empirical economics, causal inference, and data science workflows.</sub>
       </p>
@@ -37,6 +37,18 @@
       <a href="https://CRAN.R-project.org/package=fixes"><img src="https://www.r-pkg.org/badges/version/fixes" alt="CRAN" /></a>
       <a href="https://cran.r-project.org/package=fixes"><img src="https://cranlogs.r-pkg.org/badges/fixes" alt="Downloads" /></a>
       <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <p>
+        🔑 <a href="https://yo5uke.com"><b>rok</b></a>
+        <br>
+        <sub>A new R package manager that uses Rust for its backend.</sub>
+      </p>
+      <a href="https://github.com/yo5uke/rok"><img src="https://img.shields.io/github/v/tag/yo5uke/rok?label=dev%20version&style=flat-square&color=blue" alt="Dev Version" /></a>
+      <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></a>
+      <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a>
     </td>
   </tr>
 </table>
