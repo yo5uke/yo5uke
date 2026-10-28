@@ -1,6 +1,7 @@
 ### 👨‍💼 Yosuke Abe
 
-> Researcher at a Japanese think tank, specializing in official statistics, econometrics, and causal inference.
+> Researcher at a Japanese think tank, specializing in official statistics, econometrics, and causal inference.  
+> Master of International Public Policy, OSIPP, Osaka University
 
 ### 📦 Featured Projects & Tools
 
