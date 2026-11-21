@@ -43,7 +43,7 @@
   <tr>
     <td colspan="2" width="100%" valign="top">
       <p>
-        🔑 <a href="https://yo5uke.com/rok"><b>rok</b></a>
+        🔑 <a href="https://github.com/yo5uke/rok"><b>rok</b></a>
         <br>
         <sub>A new R package manager that uses Rust for its backend.</sub>
       </p>
